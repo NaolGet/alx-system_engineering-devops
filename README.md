@@ -1,1 +1,1 @@
-‘This repository contains solutions to shell tasks’
+This repository shows redirection
